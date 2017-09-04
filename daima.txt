@@ -772,3 +772,6 @@ span:focus{outline:0}
 .manual-spread-none{display:none}
 .manual-spread-container{position:relative;width:1215px;height:100%;margin-left:auto;margin-right:auto;background-image:url(/static/translation/img/footer/manual-banner3_4bc2220.png);-webkit-background-size:100% 100%;-moz-background-size:100% 100%;-o-background-size:100% 100%;background-size:100% 100%;background-repeat:no-repeat}
 .manual-spread-close{position:absolute;top:0;right:10px;width:41px;height:41px;background-image:url(/static/translation/img/footer/manual-banner-close_15de5fa.png);background-position:center center;background-repeat:no-repeat}.textarea-clear-btn{background-position:-20px -10px}.follow-weibo-btn{background-position:-90px -95px}.mobile-link{background-position:-93px -163px}.follow-weixin-btn{background-position:-89px -232px}.contact-us-btn{background-position:-94px -300px}.fdialog-close{background-position:-92px -364px}.textarea-clear-btn,.follow-weibo-btn,.mobile-link,.follow-weixin-btn,.contact-us-btn,.fdialog-close{background-image: url(/static/translation/pkg/index_z_15cc24c.png)}
+
+
+ÄãÊÇ
